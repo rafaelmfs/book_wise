@@ -1,7 +1,6 @@
 {
   "name": "book_wise",
   "version": "0.1.0",
-  "type": "module",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -31,7 +30,6 @@
     "@types/node": "^20.2.6",
     "@types/uuid": "^9.0.2",
     "prisma": "^4.15.0",
-    "ts-node": "^10.9.1",
     "typescript": "^5.1.3"
   }
 }
